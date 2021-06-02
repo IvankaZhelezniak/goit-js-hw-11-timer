@@ -1,0 +1,28 @@
+  
+.timer {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: #fff;
+  padding: 10px;
+}
+
+.value {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #000;
+  border-radius: 6px;
+  font-size: 70px;
+}
+
+.label {
+  text-transform: uppercase;
+}
